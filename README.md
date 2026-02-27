@@ -1,25 +1,28 @@
-# Adhithyan – Cybersecurity Portfolio
+# Adhithyan AK – Cybersecurity Portfolio
 
 ## About Me
-Cybersecurity enthusiast focused on Vulnerability Assessment and Penetration Testing (VAPT), Web Security, and Network Security. Actively building hands-on skills through labs and practical security testing.
+Entry-level cybersecurity enthusiast focused on Vulnerability Assessment, Penetration Testing (VAPT), and SOC analysis. Actively building hands-on skills through practical labs and security testing environments.
 
-## Skills
-- Networking Fundamentals (TCP/IP, DNS, HTTP)
-- Web Application Security
-- OWASP Top 10
+## Core Skills
+- Network Security & TCP/IP
+- Web Application Security (OWASP Top 10)
 - Vulnerability Assessment
+- Log Analysis & SIEM Monitoring
 
 ## Tools
-- Nmap
-- Burp Suite
-- Wireshark
-- Metasploit
+Nmap | Burp Suite | Wireshark | Metasploit | Splunk | Hydra
 
-## Labs & Projects
-🚧 Portfolio currently under active development.
+## Hands-on Platforms
+TryHackMe | Hack The Box | LetsDefend | BTLO | PortSwigger Academy
+
+## Portfolio Sections
+- Web Security Testing
+- Network Security Labs
+- Security Reports
+- Tool Practice Documentation
 
 ## Goal
-To build practical cybersecurity skills and start my career as a Cybersecurity Analyst / VAPT Associate.
+To start a career as a SOC Analyst L1 or Junior VAPT Analyst.
 
-## Contact
-GitHub: https://github.com/adhithyan4k
+## Portfolio Link
+https://github.com/adhithyan4k/cybersecurity-portfolio
