@@ -1,28 +1,80 @@
-# Adhithyan AK – Cybersecurity Portfolio
+# Hi, I'm Adhithyan A K 👋
+### 🔐 Cybersecurity Fresher | SOC Analyst | Kerala, India
 
-## About Me
-Entry-level cybersecurity enthusiast focused on Vulnerability Assessment, Penetration Testing (VAPT), and SOC analysis. Actively building hands-on skills through practical labs and security testing environments.
+---
 
-## Core Skills
-- Network Security & TCP/IP
-- Web Application Security (OWASP Top 10)
-- Vulnerability Assessment
-- Log Analysis & SIEM Monitoring
+## 🏆 Achievements
+- 🥇 TryHackMe — Top 7% Globally (65+ rooms, 13 badges)
+- 🏅 Keltron Cyber Security — Grade A (Govt. of Kerala)
+- 🎯 CTF — Top 10% (Haunted Network CTF, Techbyheart)
+- 📜 Ethical Hacking Associate — REDTEAM 360
+- 💻 IT Help Desk — LinkedIn Learning (Apr 2026)
 
-## Tools
-Nmap | Burp Suite | Wireshark | Metasploit | Splunk | Hydra
+---
 
-## Hands-on Platforms
-TryHackMe | Hack The Box | LetsDefend | BTLO | PortSwigger Academy
+## 🛠️ Skills
 
-## Portfolio Sections
-- Web Security Testing
-- Network Security Labs
-- Security Reports
-- Tool Practice Documentation
+**Blue Team:**
+SOC Monitoring | SIEM | Log Analysis |
+Threat Intelligence | Incident Response |
+Phishing Analysis | Threat Hunting | Malware Analysis
 
-## Goal
-To start a career as a SOC Analyst L1 or Junior VAPT Analyst.
+**Red Team:**
+Penetration Testing | Vulnerability Assessment |
+Web App Security | Network Security | OSINT
 
-## Portfolio Link
-https://github.com/adhithyan4k/cybersecurity-portfolio
+**Tools:**
+Splunk | Nmap | Metasploit | Burp Suite |
+Wireshark | Hydra | VirusTotal | URLScan |
+AbuseIPDB | MXToolbox
+
+**Frameworks:**
+MITRE ATT&CK | NIST | OWASP Top 10 |
+ISO 27001 | Cyber Kill Chain | PCI DSS
+
+---
+
+## 📁 Featured Projects
+
+### 🔍 Phishing Email Analysis & Threat Investigation
+Analyzed 3 real-world active phishing campaigns
+targeting Microsoft, Google, and Netflix.
+Discovered GitHub Pages abuse as advanced evasion.
+- VirusTotal detections: 8/92, 17/92, 19/92
+- SPF/DKIM/DMARC all FAIL confirmed via MXToolbox
+- Full IOC documentation + MITRE ATT&CK mapping
+
+### 📊 SIEM Home Lab — Splunk Threat Detection
+Built Splunk Enterprise 10.2.3 SIEM lab on Windows.
+Ingested 103,847+ real Windows events.
+Detected 13 real brute force events (EventCode 4625).
+Created automated alerts + SOC monitoring dashboard.
+
+### 🌐 Web Application Security Testing
+50+ PortSwigger + DVWA vulnerability labs.
+SQL injection, XSS, CSRF, SSRF, CORS, JWT.
+Full OWASP Top 10 coverage with Burp Suite.
+
+### 🔌 Network Penetration Testing
+Full pentest methodology using Nmap + Metasploit.
+Identified 10+ vulnerabilities with CVE references.
+Simulated brute force with Hydra.
+
+---
+
+## 📊 Lab Platforms
+TryHackMe | HackTheBox | PortSwigger |
+BTLO | LetsDefend | HackerOne | BugCrowd
+
+---
+
+## 🎯 Goal
+SOC Analyst L1 | Cybersecurity Analyst |
+Open to remote and relocation
+
+---
+
+## 📫 Contact
+📧 adhithynmak@gmail.com
+💼 linkedin.com/in/adhithyanak
+📍 Kerala, India
