@@ -1,6 +1,6 @@
 # SIEM Home Lab — Splunk Threat Detection
 
-**Analyst:** Adhithyan A K
+**Analyst:** Adhithyan AK
 **Date:** May 2, 2026
 **Tool:** Splunk Enterprise 10.2.3
 **OS:** Windows 11
